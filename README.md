@@ -5,3 +5,4 @@ If the password in second dialog isn't matching the password.txt, THAT IS A MALW
 **The password in first dialog always is "Henry133DevAssets".**
 
 ***Copyright (c) Henry133. Do not distribute fake copy of this Database. Do not distribute if your work got banned/not allowed/not trusted, or whatever reason.***
+**All of your modifications must be accepted by RealSky Development Team, or atleast by Henry**
